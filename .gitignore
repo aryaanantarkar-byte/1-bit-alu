@@ -1,0 +1,16 @@
+# Simulation outputs
+alu_sim
+*.out
+*.vvp
+
+# Waveform files
+*.vcd
+waveforms/*.vcd
+!waveforms/.gitkeep
+
+# Editor & OS temporary files
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
