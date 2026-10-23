@@ -1,6 +1,6 @@
 # 1-Bit ALU in Verilog
 
-A beginner-friendly, hardware-accurate implementation of a 1-bit Arithmetic Logic Unit (ALU) written in Verilog, simulated with **Icarus Verilog**, and visualized using **GTKWave**.
+This is my verilog journey day one i have begun this journey with A beginner-friendly, hardware-accurate implementation of a 1-bit Arithmetic Logic Unit (ALU) written in Verilog, simulated with **Icarus Verilog**, and visualized using **GTKWave**.
 
 ---
 
